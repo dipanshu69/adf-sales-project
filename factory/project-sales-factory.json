@@ -1,0 +1,15 @@
+{
+	"name": "project-sales-factory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b904e77b-9424-456b-b066-07c7dc49fb8e",
+		"tenantId": "39d22bea-c31b-4ad0-b703-23b67e857c96"
+	}
+}
